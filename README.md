@@ -1,5 +1,7 @@
 # Face-Recognization-Model-using-varies-ML-Classifier
 
+-> I have also attached dataset along with the code file.
+
 This Face Recognization Model is a ML Algorithm's based model where I used Olivetti Face dataset to train and test the model.
 The Olivetti dataset consist of ten different images of each of 40 distinct subjects. For some subjects, the images were taken at different times, varying the lighting, facial expressions (open / closed eyes, smiling / not smiling) and facial details (glasses / no glasses).
 
